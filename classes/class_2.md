@@ -14,7 +14,7 @@
 
 ## Methods ##
 
-`chairs` (setter method that changes `seat_capacity` attribute)
+`remove_chair(num)` (setter method that changes `seat_capacity` attribute)
 
 `seat_table(ppl)` (method that modifies the `seats_available` attribute)
 
