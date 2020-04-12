@@ -15,6 +15,6 @@
 
 `throw` (modifies the `is_broken` attribute)
 
-`pour_drink` (modifies the `oz_in_glass` attribute)
+`pour_drink(oz)` (modifies the `oz_in_glass` attribute)
 
-`spill_drink` (modifies the `oz_in_glass` attribute)
+`spill_drink(oz)` (modifies the `oz_in_glass` attribute)
