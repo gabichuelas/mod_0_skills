@@ -2,13 +2,13 @@
 
 ## attributes ##
 
-`seat_capacity` => 4
+`seat_capacity` = 4
 
-`seats_available` => 4
+`seats_available` = 4
 
-`has_service` => false
+`has_service` = false
 
-`order` => { 1: dish1, 2: dish2, 3: dish3, 4: dish4 }
+`order` = { 1: dish1, 2: dish2, 3: dish3, 4: dish4 }
 
 `server` => name
 
