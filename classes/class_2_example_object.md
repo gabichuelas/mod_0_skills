@@ -10,7 +10,7 @@
 
 `order` = { 1: dish1, 2: dish2, 3: dish3, 4: dish4 }
 
-`server` => name
+`server` = name
 
 ## Methods ##
 
